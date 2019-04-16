@@ -1,8 +1,8 @@
-require './game'
+require "./game"
 
 game = Game.new
 
 game.run
 
-puts '----- GAME OVER -----'
-puts 'Good bye!'
+puts "----- GAME OVER -----"
+puts "Good bye!"
